@@ -1,4 +1,4 @@
-# ammonite_sshd_java
+# http://www.lihaoyi.com/Ammonite/#Embedding in plain java project
 
     git clone https://github.com/dveim/ammonite_sshd_java
     cd ammonite_sshd_java
